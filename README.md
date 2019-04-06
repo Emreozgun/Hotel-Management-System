@@ -1,9 +1,9 @@
 # Hotel-Management-
 
 1.1 Problem Definition
-a. Project Title:
+- Project Title
 Hotel Management System
-b. Project Definiton:
+- Project Definiton
 That system is a hotel management system keeps users records one by one as Recepsionist and
 Guest Info, all booking and check available rooms etc. The system has different categories for
 guest and recepsionist. Guest can booking and cancel booking.Recepsionist can booking,cancel
